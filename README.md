@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SparkyXCIX
+- 👀 I’m interested in Programming, and much more ...
+- 🌱 I’m currently learning NodeJS
